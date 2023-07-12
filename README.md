@@ -2,7 +2,7 @@
 <img src="images/header.png" alt="banner image">
 
 <!-- profile views -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=404praty&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyaynotfound&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
 <!-- social links -->
 <h3 align="center">Connect with me</h3>
@@ -18,10 +18,10 @@
 <h3 align="center">GitHub Trophies</h3>
 <div align="center">
   
-![trophy](https://github-profile-trophy.vercel.app/?username=404praty&theme=dark_lover&no-frame=true&no-bg=true&column=3&title=Commits,Followers,Stars)
+![trophy](https://github-profile-trophy.vercel.app/?username=pratyaynotfound&theme=dark_lover&no-frame=true&no-bg=true&column=3&title=Commits,Followers,Stars)
 <br>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=404praty&theme=dark_lover&no-frame=true&no-bg=true&column=3&title=PullRequest,Repositories,Reviews)
+![trophy](https://github-profile-trophy.vercel.app/?username=pratyaynotfound&theme=dark_lover&no-frame=true&no-bg=true&column=3&title=PullRequest,Repositories,Reviews)
 </div>
 
 <!-- github stats -->
