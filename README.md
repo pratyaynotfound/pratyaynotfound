@@ -28,7 +28,7 @@
 <h3 align="center">GitHub Stats</h3>
 <div align="center">
     <img height="160px" width="160px" src="images/wings/left.svg" alt="left wing"> <!-- to be made responsive -->
-    <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=404praty&theme=windows-dark&hide_border=true" alt="streak stats">
+    <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=pratyaynotfound&theme=windows-dark&hide_border=true" alt="streak stats">
     <img height="160px" width="160px" src="images/wings/right.svg" alt="right wing">  <!-- to be made responsive -->
     <p></p>
     <img src="https://github-readme-stats.vercel.app/api?username=404praty&show_icons=true&locale=en&theme=github_dark&hide_border=true&bg_color=000000&count_private=true" alt="github stats">
