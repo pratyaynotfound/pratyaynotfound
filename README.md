@@ -80,7 +80,7 @@
 </h1>
 ---
 
-<!-- Profile 3D Contrib -->
+<!-- Profile 3D Contrib 
 <h1 align=center>
 
 :heavy_plus_sign: Contributions :heavy_minus_sign:
@@ -91,3 +91,4 @@
 </div>
 
 ---
+-->
