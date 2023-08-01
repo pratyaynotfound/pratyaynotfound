@@ -87,7 +87,7 @@
 </h1>
 
 <div align=center>
-    <img src="profile-night-view.svg" height="500" alt="Profile 3D Contrib">
+    <img src="profile-3d-contrib/profile-night-view.svg" height="500" alt="Profile 3D Contrib">
 </div>
 
 ---
