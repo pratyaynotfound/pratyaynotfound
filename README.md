@@ -79,16 +79,14 @@
     <img src="images/iot/arduino.svg" height="34" alt="Arduino" align=right>&nbsp;&nbsp;
 </h1>
 
-<!-- Profile 3D Contrib 
----
+<!-- Profile 3D Contrib -->
 <h1 align=center>
 
 :heavy_plus_sign: Contributions :heavy_minus_sign:
 </h1>
 
 <div align=center>
-    <img src="profile-3d-contrib/profile-night-view.svg" height="500" alt="Profile 3D Contrib">
+    <img src="profile-3d-contrib/profile-night-green.svg" height="500" alt="Profile 3D Contrib">
 </div>
 
 ---
--->
