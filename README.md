@@ -17,14 +17,7 @@ Final-year Integrated BS-MS student in **Computational Sciences at IACS**, Kolka
 
 <br/>
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=pratyaynotfound&theme=chalk" alt="Trophies" />
-  </a>
-</p>
 
-<br/>
 
 ### 🛰️ Featured Project: PIDSMaker-viz
 
