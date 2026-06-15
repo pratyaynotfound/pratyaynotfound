@@ -12,7 +12,7 @@ Final-year Integrated BS-MS student in **Computational Sciences at IACS**, Kolka
 
 - 🔬 Researching **provenance-based intrusion detection (PIDS)** and **GNN-based anomaly detection** for APT detection
 - 🛰️ Built **PIDSMaker-viz**, a GPU-accelerated tool for visualizing GNN embeddings in provenance graphs (more below 👇)
-- 🎓 Applying to PhD programs for Fall 2027 in systems security & ML for graph-structured data
+- 🎓 Applying to PhD programs in systems security & ML for graph-structured data
 - ⚡ Off the clock: classic cinema, high-fidelity audio gear, and badminton
 
 <br/>
