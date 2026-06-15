@@ -17,6 +17,15 @@ Final-year Integrated BS-MS student in **Computational Sciences at IACS**, Kolka
 
 <br/>
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=pratyaynotfound&theme=chalk" alt="Trophies" />
+  </a>
+</p>
+
+<br/>
+
 ### 🛰️ Featured Project: PIDSMaker-viz
 
 A GPU-accelerated visualization tool for inspecting GNN embeddings inside provenance-based IDS pipelines — built to make it easier to *see* why a model flags (or misses) malicious activity.
@@ -89,21 +98,13 @@ A GPU-accelerated visualization tool for inspecting GNN embeddings inside proven
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratyaynotfound&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=ffe100&text_color=ffffff&icon_color=ffb8ff&hide_border=true" alt="Top Languages" width="60%" />
 </p>
 
-<details>
-<summary>🏆 GitHub Trophies</summary>
-<br/>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pratyaynotfound&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-</p>
-</details>
-
 <br/>
 
 ### 📫 Let's Connect
 
 <p align="left">
-  <a href="mailto:pratyaysarkar2017@gmail.com"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="40" width="40"/></a>
+  <a href="mailto:pratyaysarkar2017@gmail.com"><img src="https://cdn.simpleicons.org/gmail/ea4335" alt="Email" height="40" width="40"/></a>
   <a href="https://www.linkedin.com/in/pratyay225/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/></a>
   <a href="https://twitter.com/pratyay_225" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40"/></a>
   <a href="https://www.hackerrank.com/pratyay225kgr" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="40"/></a>
-</p>class
+</p>
