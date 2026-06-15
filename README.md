@@ -1,36 +1,109 @@
-<h1 align="center">Hi 👋, I'm Pratyay Sarkar</h1>
-<h3 align="center">A passionate research scholar and developer from India.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyaynotfound&label=Profile%20views&color=0e75b6&style=flat" alt="pratyaynotfound" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratyaynotfound" alt="pratyaynotfound" /></a> </p>
-
-- 🔭 I’m currently working on **threat and attack detection**
-
-- 🌱 I’m currently learning **PIDSMaker, GNN, Diffusion, Normalising flows**
-
-- 👯 I’m looking to collaborate on **APT based attack detection**
-
-- 💬 Ask me about **Operating Systems & Networking**
-
-- 📫 How to reach me **pratyaysarkar2017@gmail.com**
-
-- ⚡ Fun fact **I love technology, gadgets, os, networks, servers, music, more...**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/pratyay_225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pratyay_225" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pratyay225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pratyay225/" height="30" width="40" /></a>
-<a href="https://fb.com/pratyay.sarkar.96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pratyay.sarkar.96" height="30" width="40" /></a>
-<a href="https://instagram.com/pixels_by_choice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pixels_by_choice" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/pratyay225kgr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pratyay225kgr" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=FFE100&background=00000000&center=true&vCenter=true&width=900&height=60&lines=Hi%2C+I'm+Pratyay+Sarkar+%F0%9F%91%8B;Provenance-Based+Intrusion+Detection+Research;Graph+Neural+Networks+for+APT+Detection;Computational+Sciences%2C+IACS" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pratyaynotfound&label=Profile+Views&color=ffe100&style=for-the-badge&label_color=000000" alt="Profile views" />
+</p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratyaynotfound&show_icons=true&locale=en&layout=compact" alt="pratyaynotfound" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratyaynotfound&show_icons=true&locale=en" alt="pratyaynotfound" /></p> -->
+Final-year Integrated BS-MS student in **Computational Sciences at IACS**, Kolkata, India.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratyaynotfound&" alt="pratyaynotfound" /></p>
+- 🔬 Researching **provenance-based intrusion detection (PIDS)** and **GNN-based anomaly detection** for APT detection
+- 🛰️ Built **PIDSMaker-viz**, a GPU-accelerated tool for visualizing GNN embeddings in provenance graphs (more below 👇)
+- 🎓 Applying to PhD programs for Fall 2027 in systems security & ML for graph-structured data
+- ⚡ Off the clock: classic cinema, high-fidelity audio gear, and badminton
+
+<br/>
+
+### 🛰️ Featured Project: PIDSMaker-viz
+
+A GPU-accelerated visualization tool for inspecting GNN embeddings inside provenance-based IDS pipelines — built to make it easier to *see* why a model flags (or misses) malicious activity.
+
+- ⚙️ Three-tier UMAP pipeline: RAPIDS cuML → batched GPU kNN (PyTorch) → CPU fallback
+- 🖥️ Native Qt/VisPy desktop GUI with custom GLSL shaders for temporal animation
+- 🔍 Epoch scrubbing, detection-status coloring, CSV-based node filtering
+- 🔄 Word2Vec ↔ GNN encoder hot-swap, multi-hop coordinates across all 8 PIDSMaker architectures
+
+🔗 **[github.com/pratyaynotfound/PIDSMaker-viz](https://github.com/pratyaynotfound/PIDSMaker-viz)**
+
+<br/>
+
+### 🧰 Tech Stack
+
+**Languages**
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+</p>
+
+**ML & Data**
+
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+</p>
+
+**Systems & Infra**
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+</p>
+
+**Cloud & Other**
+
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+</p>
+
+<br/>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratyaynotfound&bg_color=000000&color=ffe100&line=ff0000&point=00ffff&area=true&hide_border=true&custom_title=Commit%20Activity" alt="Activity graph" width="100%" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pratyaynotfound&show_icons=true&bg_color=000000&title_color=ffe100&text_color=ffffff&icon_color=00ffff&border_color=ffe100&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratyaynotfound&theme=dark&background=000000&stroke=ffe100&ring=ffe100&fire=ff0000&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffe100&sideLabels=ffe100&dates=ffffff&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratyaynotfound&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=ffe100&text_color=ffffff&icon_color=ffb8ff&hide_border=true" alt="Top Languages" width="60%" />
+</p>
+
+<details>
+<summary>🏆 GitHub Trophies</summary>
+<br/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pratyaynotfound&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+</p>
+</details>
+
+<br/>
+
+### 📫 Let's Connect
+
+<p align="left">
+  <a href="mailto:pratyaysarkar2017@gmail.com"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="40" width="40"/></a>
+  <a href="https://www.linkedin.com/in/pratyay225/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/></a>
+  <a href="https://twitter.com/pratyay_225" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40"/></a>
+  <a href="https://www.hackerrank.com/pratyay225kgr" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="40"/></a>
+</p>class
