@@ -81,7 +81,7 @@ A GPU-accelerated visualization tool for inspecting GNN embeddings inside proven
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=pratyaynotfound&show_icons=true&bg_color=000000&title_color=ffe100&text_color=ffffff&icon_color=00ffff&border_color=ffe100&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=pratyaynotfound&theme=dark&background=000000&stroke=ffe100&ring=ffe100&fire=ff0000&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffe100&sideLabels=ffe100&dates=ffffff&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=pratyaynotfound&theme=dark&background=000000&stroke=ffe100&ring=ffe100&fire=ff0000&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffe100&sideLabels=ffe100&dates=ffffff&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
