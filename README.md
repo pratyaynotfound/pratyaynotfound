@@ -57,10 +57,10 @@ An open-source, forensics-ready LoRa mesh networking testbed built on ESP32-C3/S
 </p>
 
 **Cloud & Other**
-
+ 
 <p align="left">
   <img src="https://cdn.simpleicons.org/googlecloud/4285F4" alt="gcp" width="36" height="36"/>
-  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" alt="azure" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="36" height="36"/>
   <img src="https://cdn.simpleicons.org/arduino/00979D" alt="arduino" width="36" height="36"/>
   <img src="https://cdn.simpleicons.org/figma/F24E1E" alt="figma" width="36" height="36"/>
   <img src="https://ktty.cloud/logo_KTTY.png" alt="ktty cloud" width="36" height="36"/>
