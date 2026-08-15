@@ -1,31 +1,25 @@
-<h1 align="center">Pratyay Sarkar</h1>
-<h3 align="center">Provenance-Based Intrusion Detection Research</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pratyaynotfound&label=Profile%20Views&color=ffe100&style=flat-square" alt="Profile views" />
-</p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=FFE100&background=00000000&center=true&vCenter=true&width=900&height=60&lines=Hi%2C+I+am+Pratyay;Provenance-Based+IDS+%7C+Botnet+Detection+%7C+Digital+Forensics;Cinephile+%7C+Photographer+%7C+Audiophile+%7C+Tech+Nerd" alt="Typing SVG" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=pratyaynotfound&label=Profile%20Views&color=ffe100&style=flat-square" alt="Profile views" /> </p> <br/>
 
 <br/>
 
-Final-year Integrated BS-MS student in **Computational Sciences at IACS**, Kolkata, India.
+Graduated with an Integrated BS-MS in **Computational Sciences from IACS Kolkata** (July 2026).
 
-- Researching **provenance-based intrusion detection (PIDS)** and **GNN-based anomaly detection** for APT detection
-- Built **PIDSMaker-viz**, a GPU-accelerated tool for visualizing GNN embeddings in provenance graphs (see below)
-- Applying to PhD programs in systems security and ML for graph-structured data
-- Interests outside research: classic cinema, high-fidelity audio, and badminton
+- Remote Research Intern at the **Systopia Lab, University of British Columbia**, working on provenance-based intrusion detection (PIDS) and GNN-based anomaly detection for APT detection
+- Project student at **Jadavpur University**, working on IoT and digital forensics research
+- Interests outside research: cinema, high-fidelity audio, badminton, photography, videography, computer nerd
 
 <br/>
 
-## Featured Project: PIDSMaker-viz
+## Research & Projects
 
-A GPU-accelerated visualization tool for inspecting GNN embeddings inside provenance-based IDS pipelines, built to make it easier to see why a model flags (or misses) malicious activity.
+**PIDSMaker / PIDSMaker-viz**
+A framework for provenance-based intrusion detection over DARPA TC/E3 datasets, paired with a GPU-accelerated visualization tool for inspecting GNN embeddings and diagnosing model behavior on provenance graphs.
 
-- Three-tier UMAP pipeline: RAPIDS cuML, batched GPU kNN in PyTorch, and a CPU fallback
-- Native Qt/VisPy desktop GUI with custom GLSL shaders for temporal animation
-- Epoch scrubbing, detection-status coloring, and CSV-based node filtering
-- Word2Vec/GNN encoder hot-swap with multi-hop coordinates across all eight PIDSMaker architectures
+**SeqFlow**
+Thesis research on per-entity GRU-based anomaly detection over provenance graphs, evaluated on the DARPA THEIA dataset.
 
-**[github.com/pratyaynotfound/PIDSMaker-viz](https://github.com/pratyaynotfound/PIDSMaker-viz)**
+**LoRaComm**
+An open-source, forensics-ready LoRa mesh networking testbed built on ESP32-C3/SX1262 hardware, featuring AODV routing, AES-256-GCM encryption with Curve25519 key exchange, and tamper-evident evidence logging.
 
 <br/>
 
@@ -38,25 +32,25 @@ A GPU-accelerated visualization tool for inspecting GNN embeddings inside proven
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="36" height="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="36" height="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="36" height="36"/>
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="bash" width="36" height="36"/>
 </p>
 
 **ML & Data**
 
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="36" height="36"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="36" height="36"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="36" height="36"/>
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" alt="pytorch" width="36" height="36"/>
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" alt="tensorflow" width="36" height="36"/>
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="scikit-learn" width="36" height="36"/>
+  <img src="https://cdn.simpleicons.org/pandas/150458" alt="pandas" width="36" height="36"/>
 </p>
 
 **Systems & Infrastructure**
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="36" height="36"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/>
+  <img src="https://cdn.simpleicons.org/git/F05032" alt="git" width="36" height="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="36" height="36"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="36" height="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="36" height="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="36" height="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="36" height="36"/>
@@ -65,13 +59,36 @@ A GPU-accelerated visualization tool for inspecting GNN embeddings inside proven
 **Cloud & Other**
 
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="36" height="36"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="36" height="36"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="36" height="36"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="36" height="36"/>
+  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" alt="gcp" width="36" height="36"/>
+  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" alt="azure" width="36" height="36"/>
+  <img src="https://cdn.simpleicons.org/arduino/00979D" alt="arduino" width="36" height="36"/>
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" alt="figma" width="36" height="36"/>
+  <img src="https://ktty.cloud/logo_KTTY.png" alt="ktty cloud" width="36" height="36"/>
 </p>
 
-<br/>
+
+**Operating Systems**
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="mac" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="arch" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" alt="fedora" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="debian" width="36" height="36"/>
+</p>
+
+**Homelab**
+ 
+<p align="left">
+  <img src="https://cdn.simpleicons.org/proxmox/E57000" alt="proxmox" width="36" height="36"/>
+  <img src="https://cdn.simpleicons.org/raspberrypi/A22846" alt="raspberry pi" width="36" height="36"/>
+  <img src="https://cdn.simpleicons.org/espressif/E7352C" alt="esp32" width="36" height="36"/>
+  <img src="https://cdn.simpleicons.org/pihole/96060C" alt="pi-hole" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="36" height="36"/>
+</p>
 
 ## GitHub Stats
 
