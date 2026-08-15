@@ -108,10 +108,12 @@ An open-source, forensics-ready LoRa mesh networking testbed built on ESP32-C3/S
 <br/>
 
 ## Contact
-
+ 
 <p align="left">
   <a href="mailto:pratyaysarkar2017@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" height="32" width="32"/></a>
-  <a href="https://www.linkedin.com/in/pratyay225/" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="32" width="32"/></a>
+  <a href="https://www.linkedin.com/in/pratyay225/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" height="32" width="32"/></a>
   <a href="https://twitter.com/pratyay_225" target="_blank"><img src="https://cdn.simpleicons.org/x/000000" alt="X" height="32" width="32"/></a>
   <a href="https://www.hackerrank.com/pratyay225kgr" target="_blank"><img src="https://cdn.simpleicons.org/hackerrank/2EC866" alt="HackerRank" height="32" width="32"/></a>
 </p>
+ 
+
