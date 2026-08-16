@@ -7,7 +7,7 @@ Graduated with an Integrated BS-MS in **Computational Sciences from IACS Kolkata
 - Remote Research Intern at the **Systopia Lab, University of British Columbia**, working on provenance-based intrusion detection (PIDS) and GNN-based anomaly detection for APT detection
 - Project student at **Jadavpur University**, working on IoT and digital forensics research
 - Interests outside research: cinema, high-fidelity audio, badminton, photography, videography, computer nerd
-- Visit my site: [Pratyay Sarkar](https://driftcloud.tech/)
+- Visit my site: [Pratyay Sarkar](http://pratyay.driftcloud.tech/)
 <br/>
 
 ## Research & Projects
