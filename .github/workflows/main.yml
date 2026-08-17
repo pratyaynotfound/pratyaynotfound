@@ -11,7 +11,14 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - id: generate_3d_contrib_first_try
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - if: steps.generate_3d_contrib_first_try.outcome == 'failure'
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
